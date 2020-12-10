@@ -10,6 +10,8 @@ More changes
 
 ## Purpose
 
+Purpose is clear: rebase
+
 ## Deployment
 
 Some oytun text
