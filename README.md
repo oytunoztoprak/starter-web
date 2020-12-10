@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 Custom changes
 
-Add rebase example
+Add rebase example, more changes
 
 More changes
 
