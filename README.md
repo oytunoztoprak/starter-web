@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+my repo rebase example
+
 Custom changes
 
 Add rebase example, more changes
