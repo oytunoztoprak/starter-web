@@ -15,3 +15,6 @@ Some oytun text
 Sample website with plenty of files for demos
 
 ##COpyright
+
+
+# How to contribute
