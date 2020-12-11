@@ -10,6 +10,8 @@ Add rebase example, more changes
 
 More changes
 
+Emergency fix
+
 ## Purpose
 
 Purpose is clear: rebase
