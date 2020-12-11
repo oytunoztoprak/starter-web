@@ -22,6 +22,8 @@ Sample website with plenty of files for demos
 
 ##COpyright
 
+All rights reserved
+
 
 # How to contribute
 
